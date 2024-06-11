@@ -2,7 +2,7 @@
     // @name         CryptoJS
     // @namespace    tampermonkey-example
     // @version      1.0
-    // @description  Laboratorio 4 criptografia y seguridad en redes.
+    // @description  Lab 4 criptografia y seguridad en redes.
     // @match        https://cripto.tiiny.site/
     // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js#sha512-a+SUDuwNzXDvz4XrIcXHuCf089/iJAoN4lmrXJg18XnduKK6YlDHNRalv4yd1N40OKI80tFidF+rqTFKGPoWFQ==
     // @author       ELABUELO19
