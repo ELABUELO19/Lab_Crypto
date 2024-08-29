@@ -10,7 +10,7 @@ def obtener_mensaje(pcapng_file):
         if ICMP in pkt:
             # Extrae el byte de la data del paquete ICMP y lo agrega al mensaje
             data = pkt[ICMP].load
-            mensaje += chr(data[0])
+            mensaje += chr(data[12])
     return mensaje
 
 def descifrar_cesar(texto, desplazamiento):
